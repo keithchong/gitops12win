@@ -2,3 +2,7 @@ resources:
 - argocd-admin.yaml
 - dev-environment.yaml
 - dev-rolebinding.yaml
+- environments\dev\env\base\argocd-admin.yaml
+- environments\dev\env\base\dev-environment.yaml
+- environments\dev\env\base\dev-rolebinding.yaml
+- environments\dev\env\base\kustomization.yaml

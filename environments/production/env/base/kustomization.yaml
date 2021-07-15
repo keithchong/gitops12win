@@ -1,0 +1,7 @@
+resources:
+- argocd-admin.yaml
+- environments\production\env\base\argocd-admin.yaml
+- environments\production\env\base\kustomization.yaml
+- environments\production\env\base\production-environment.yaml
+- production-environment.yaml
+- production-rolebinding.yaml
